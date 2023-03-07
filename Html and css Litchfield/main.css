@@ -6,7 +6,11 @@ img{
     margin: 2em
 }
         /* This page kinda sucks */
-
+h3{
+    background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+}
 a {
     color: #ff69b4;
 }
